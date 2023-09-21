@@ -1,0 +1,2 @@
+# myownprojectdjango
+my own dproject
